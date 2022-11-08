@@ -1,0 +1,4 @@
+ddddocr==1.4.7
+pywin32==304
+selenium==4.6.0
+win32gui==221.6
